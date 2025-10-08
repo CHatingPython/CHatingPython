@@ -6,7 +6,7 @@ I use MinGW btw
 
 ## Beloved quotes
 
-- "Rust tools are no use" <br>
+- "Rust tools are no use"
  ~ Me
 - "Behold, I have given you authority to tread on **serpents** and scorpions, and over all the power of the enemy, and nothing shall hurt you."
  ~ Luke 10:19
