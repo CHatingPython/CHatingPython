@@ -8,6 +8,8 @@ I use MinGW btw
 
 - "Rust tools are no use"
  ~ Me
+- "A coke a day keeps the rust away"
+ ~ Me
 - "Behold, I have given you authority to tread on **serpents** and scorpions, and over all the power of the enemy, and nothing shall hurt you."
  ~ Luke 10:19
 
