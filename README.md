@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=C%20Hating%20Python&reversal=false&section=header&stroke=181818&strokeWidth=2&fontSize=45&fontAlignY=30&textBg=false&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=CHating%20Python&reversal=false&section=header&stroke=181818&strokeWidth=2&fontSize=45&fontAlignY=30&textBg=false&fontColor=FFFFFF"/>
 </p>
 
 I use MinGW btw
@@ -16,6 +16,7 @@ I use MinGW btw
 ## Languages I use
 
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" />
 </div>
