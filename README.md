@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=CHating%20Python&reversal=false&section=header&stroke=181818&strokeWidth=2&fontSize=45&fontAlignY=30&textBg=false&fontColor=FFFFFF"/>
 </p>
 
-I use MinGW btw
+I use Arch btw
 
 ## Beloved quotes
 
